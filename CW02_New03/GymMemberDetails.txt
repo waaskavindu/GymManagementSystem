@@ -1,0 +1,20 @@
+Member ID :20000
+Member Name :saman pathirana
+Member Type :Student
+Starting Date :25/2/2020
+-------------------------
+Member ID :30000
+Member Name :kevin peera
+Member Type :Over60
+Starting Date :23/3/2020
+-------------------------
+Member ID :90000
+Member Name :kavindu waas
+Member Type :Student
+Starting Date :12/12/2020
+-------------------------
+Member ID :70000
+Member Name :jude kaveesha
+Member Type :Over60
+Starting Date :14/10/2020
+-------------------------
